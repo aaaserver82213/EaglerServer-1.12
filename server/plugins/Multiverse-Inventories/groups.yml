@@ -10,3 +10,9 @@ groups:
     - world_the_end
     shares:
     - all
+  stables:
+    worlds:
+    - stable
+    - stable_nether
+    shares:
+    - all

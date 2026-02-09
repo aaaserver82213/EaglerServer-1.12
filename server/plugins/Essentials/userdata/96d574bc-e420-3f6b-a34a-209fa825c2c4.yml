@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1770305204836
+  login: 1770305194640
+money: '0'
+last-account-name: jabirsilly_
+lastlocation:
+  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
+  world-name: world
+  x: -9.5
+  y: 82.0
+  z: 0.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e4bde043-c096-417f-8703-eba4ca45a689
+  world-name: stable
+  x: -95.42662028808947
+  y: 66.0
+  z: -15.180010368893214
+  yaw: 110.99757385253906
+  pitch: 52.20000457763672

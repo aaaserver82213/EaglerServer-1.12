@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1769800505561
+  login: 1769800484011
+money: '0'
+last-account-name: sharif_k7
+lastlocation:
+  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
+  world-name: world
+  x: -7.5
+  y: 85.0
+  z: 2.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e4bde043-c096-417f-8703-eba4ca45a689
+  world-name: stable
+  x: -63.428052909199955
+  y: 71.0
+  z: -63.82154050214558
+  yaw: -165.60238647460938
+  pitch: 5.550065517425537

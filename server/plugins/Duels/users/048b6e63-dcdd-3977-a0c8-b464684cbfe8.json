@@ -1,0 +1,10 @@
+{
+  "uuid" : "048b6e63-dcdd-3977-a0c8-b464684cbfe8",
+  "name" : "ParrotX",
+  "wins" : 0,
+  "losses" : 0,
+  "requests" : true,
+  "rating" : null,
+  "matches" : [ ],
+  "partyRequests" : true
+}

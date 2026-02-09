@@ -316,7 +316,7 @@ price-too-high: <red>Le prix est trop haut! Tu ne peux pas mettre un prix supér
 plugin-cancelled: '<red>Operation cancelled, Reason: {0}'
 player-sold-to-your-store: <green>{0} à vendu {1} {2} dans votre boutique.
 shop-out-of-stock: <dark_purple>Votre boutique aux coordonnées {0}, {1}, {2}, est à court de {3}!
-how-many-buy: <green>Enter in chat, how many you wish to <aqua>BUY<green>. You can buy <yellow>{0}<green>. Enter <aqua>{1}<green> to buy them all.
+how-many-buy: <green>Entez dans le chat combien vous souhaitez en <aqua>ACHETER</aqua>. Vous pouvez en acheter <yellow>{0}</yellow>. Entrez <aqua>{1}</aqua> pour tout acheter.
 language-info-panel:
   help: 'Aidez-nous : '
   code: 'Code : '
@@ -325,7 +325,7 @@ language-info-panel:
   translate-on-crowdin: '[Traduit sur Crowdin]'
 item-not-exist: <red>L'objet <yellow>{0} <red>n'existe pas, veuillez vérifier votre orthographe.
 shop-creation-failed: <red>La création de la boutique a échoué, veuillez contacter l'administrateur du serveur.
-inventory-space-full: <red>Your inventory space remains can only put <green>{1}x <red>items into it, try empty the your inventory!
+inventory-space-full: <red>Il ne vous reste de la place que pour <green>{1}</green> item dans votre inventaire. Essayez de le vider !
 no-creative-break: <red>Vous ne pouvez pas détruire les boutiques des autres joueurs en mode créatif, basculez en mode survie ou essayez d'utiliser le super-outil {0} à la place.
 booleanformat:
   success: <green>✔
@@ -390,11 +390,11 @@ timeunit:
   minutes: "{0} minutes"
   justnow: maintenant
   minute: "{0} minute"
-  std-format: MM/dd/yyyy HH:mm:ss
+  std-format: dd/MM/yyyy HH:mm:ss
   future-plain-text: future
-  month: "{0} month"
-  future: in {0}
-  days: "{0} days"
+  month: "{0} mois"
+  future: dans {0}
+  days: "{0} jours"
 command:
   reloading: '<green>Configuration rechargée. <yellow>Certains changements peuvent nécessiter un redémarrage pour être appliqués.<newline><gray>(Note : Le comportement du rechargement a été modifié après la 4.0.9.10, nous rechargeons désormais uniquement la configuration plutôt que l''ensemble du plugin, afin de garantir que le serveur ne plante pas.)'
   description:
@@ -433,20 +433,20 @@ command:
     unban: <yellow>Débannir un joueur de la boutique
     transfer: <yellow>Transférer TOUS les shops d'un joueur vers un autre
     transferall: <yellow>Transférer TOUS les shops d'un joueur vers un autre
-    transferownership: <yellow>Transfer the shop you're looking at to someone else
+    transferownership: <yellow>Transférez la boutique que vous consultez à quelqu’un d’autre
     size: <yellow>Changez par quantité en vrac d'une boutique
     supercreate: <yellow>Créer une boutique en contournant tous les contrôles de protection
     taxaccount: <yellow>Définir le compte de taxe que la boutique utilise
     name: <yellow>Naming a shop to specific name
     toggledisplay: <yellow>Activer/désactiver l'affichage de l'item de la boutique
-    permission: <yellow>Shop permission management
-    lookup: <yellow>Manage lookup-able items table
-    database: <yellow>View and maintain QuickShop database
-    benefit: <yellow>Settings of divide benefits between shop owner and other players
-    tag: <yellow>Add, remove or query tags of a shop
-    suggestprice: <yellow>Suggest a recommend price for looking shop, based on other shops
-    history: <yellow>View the history transactions of a shop
-    sign: <yellow>Change the sign material of a shop
+    permission: <yellow>Gestion des autorisations de boutique
+    lookup: <yellow>Gestion de la table des objets consultables
+    database: <yellow>Afficher et gérer la base de données QuickShop
+    benefit: <yellow>Paramètres de répartition des bénéfices entre le propriétaire de la boutique et les autres joueurs
+    tag: <yellow>Ajouter, supprimer ou consulter les tags d’une boutique
+    suggestprice: <yellow>Suggérer un prix conseillé pour la boutique, d'après les autres boutiques
+    history: <yellow>Consulter l’historique des transactions d’une boutique
+    sign: <yellow>Changer le matériau du panneau d'une boutique
   bulk-size-not-set: '<red>Utilisation: /qs size <quantité>'
   no-type-given: '<red>Utilisation: /qs find <objet>'
   feature-not-enabled: Cette fonctionnalité n'est pas activée dans le fichier de configuration.
@@ -498,14 +498,14 @@ not-managed-shop: <red>Vous n'êtes pas le propriétaire ou le modérateur de ce
 shop-cannot-trade-when-freezing: <red>Vous ne pouvez pas échanger avec cette boutique car elle est gelée.
 invalid-container: <red>Invalid container, You can only create the shop on block who have inventory.
 permission:
-  header: <green>Shop Permission Details
-  header-player: <green>Shop Permission Details for {0}
-  header-group: <green>Shop Permission Details for group {0}
+  header: <green>Détails des permissions de la boutique
+  header-player: <green>Détails des permissions de la boutique pour {0}
+  header-group: <green>Détails des permissions de la boutique pour le groupe {0}
   table: <gold><b>{0}</b>:</gold> <gray>{1}</gray>
   item:
     purchase: <yellow>Permission qui autorise les utilisateurs qui l'ont à acheter la boutique. (y compris l'achat et la vente)
     show-information: <yellow>Permission to allow users who have this to see the shop information. (open shop info panel)
-    preview-shop: <yellow>Permission to allow users who have this to preview the shop. (preview item)
+    preview-shop: <yellow>Permission permettant aux utilisateurs qui la possèdent de prévisualiser la boutique. (aperçu de l'objet)
     search: <yellow>Permission to allow users who have this to search the target shop. (remove permission will hide shop from search result)
     delete: <yellow>Permission to allow users who have this to delete the shop.
     receive-alert: <yellow>Permission to allow users who have this to receive alert message (e.g out-of-stock or new trade).

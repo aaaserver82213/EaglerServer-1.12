@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1769715454723
+  login: 1769715429719
+money: '0'
+last-account-name: ParrotX
+lastlocation:
+  world: 2abac25a-2ae6-4b68-a092-3608666b8260
+  world-name: pvp1
+  x: 56.51770538094217
+  y: 6.0
+  z: 56.92300170184781
+  yaw: -179.9994659423828
+  pitch: 5.3131581807974726E-5
+logoutlocation:
+  world: 2abac25a-2ae6-4b68-a092-3608666b8260
+  world-name: pvp1
+  x: 56.5267962189647
+  y: 6.0
+  z: 56.06928742797088
+  yaw: -179.09945678710938
+  pitch: 5.3131581807974726E-5

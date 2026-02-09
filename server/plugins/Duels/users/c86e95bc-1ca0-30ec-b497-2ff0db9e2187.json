@@ -1,10 +1,55 @@
 {
   "uuid" : "c86e95bc-1ca0-30ec-b497-2ff0db9e2187",
   "name" : "ClownPierce",
-  "wins" : 0,
-  "losses" : 0,
+  "wins" : 8,
+  "losses" : 10,
   "requests" : true,
-  "rating" : null,
-  "matches" : [ ],
+  "rating" : {
+    "Mace PvP" : 1384,
+    "Mace pvp" : 1437,
+    "Normal" : 1380
+  },
+  "matches" : [
+    {
+      "winner" : "flamefrags",
+      "loser" : "ClownPierce",
+      "kit" : "Normal",
+      "time" : 1770120034603,
+      "duration" : 45262,
+      "health" : 10.5
+    },
+    {
+      "winner" : "Wemmbu",
+      "loser" : "ClownPierce",
+      "kit" : "Normal",
+      "time" : 1770223022911,
+      "duration" : 316316,
+      "health" : 4.5
+    },
+    {
+      "winner" : "Wemmbu",
+      "loser" : "ClownPierce",
+      "kit" : "Mace PvP",
+      "time" : 1770223022911,
+      "duration" : 74122,
+      "health" : 4.0
+    },
+    {
+      "winner" : "ClownPierce",
+      "loser" : "Wemmbu",
+      "kit" : "Mace pvp",
+      "time" : 1770299596391,
+      "duration" : 229101,
+      "health" : 7.0
+    },
+    {
+      "winner" : "ClownPierce",
+      "loser" : "Wemmbu",
+      "kit" : "Mace pvp",
+      "time" : 1770312455853,
+      "duration" : 30577,
+      "health" : 10.5
+    }
+  ],
   "partyRequests" : true
 }

@@ -1,10 +1,53 @@
 {
   "uuid" : "d88a4b19-67f1-3ff1-959f-fa3b5b6f2b7b",
   "name" : "jabirsilly",
-  "wins" : 0,
-  "losses" : 0,
+  "wins" : 1,
+  "losses" : 10,
   "requests" : true,
-  "rating" : null,
-  "matches" : [ ],
+  "rating" : {
+    "Normal" : 1315
+  },
+  "matches" : [
+    {
+      "winner" : "Wemmbu",
+      "loser" : "jabirsilly",
+      "kit" : "Normal",
+      "time" : 1770035064773,
+      "duration" : 37139,
+      "health" : 10.5
+    },
+    {
+      "winner" : "Wemmbu",
+      "loser" : "jabirsilly",
+      "kit" : "Normal",
+      "time" : 1770035064773,
+      "duration" : 29921,
+      "health" : 11.0
+    },
+    {
+      "winner" : "ClownPierce",
+      "loser" : "jabirsilly",
+      "kit" : "Normal",
+      "time" : 1770035064773,
+      "duration" : 68583,
+      "health" : 8.0
+    },
+    {
+      "winner" : "jabirsilly",
+      "loser" : "kingrobby102",
+      "kit" : "Normal",
+      "time" : 1770035064773,
+      "duration" : 95510,
+      "health" : 10.0
+    },
+    {
+      "winner" : "flamefrags",
+      "loser" : "jabirsilly",
+      "kit" : "Normal",
+      "time" : 1770120034603,
+      "duration" : 31690,
+      "health" : 10.5
+    }
+  ],
   "partyRequests" : true
 }

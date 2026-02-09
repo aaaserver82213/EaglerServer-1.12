@@ -1,0 +1,10 @@
+{
+  "uuid" : "c32e762f-4ac4-35f3-aa5d-9f57cdd5be94",
+  "name" : "John",
+  "wins" : 0,
+  "losses" : 0,
+  "requests" : true,
+  "rating" : null,
+  "matches" : [ ],
+  "partyRequests" : true
+}

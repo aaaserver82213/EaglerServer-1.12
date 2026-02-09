@@ -1,0 +1,21 @@
+{
+  "uuid" : "b716ba34-656a-3370-99c6-f2522d6b2779",
+  "name" : "Nari",
+  "wins" : 1,
+  "losses" : 0,
+  "requests" : true,
+  "rating" : {
+    "Normal" : 1420
+  },
+  "matches" : [
+    {
+      "winner" : "Nari",
+      "loser" : "Wemmbu",
+      "kit" : "Normal",
+      "time" : 1770207405226,
+      "duration" : 211015,
+      "health" : 10.0
+    }
+  ],
+  "partyRequests" : true
+}

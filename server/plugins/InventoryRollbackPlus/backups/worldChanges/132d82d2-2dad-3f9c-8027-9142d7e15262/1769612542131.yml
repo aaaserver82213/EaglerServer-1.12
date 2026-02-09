@@ -1,0 +1,11 @@
+xp: 0.0
+health: 20.399999618530273
+hunger: 20
+saturation: 5.0
+location:
+  world: bending
+  x: -11.5
+  y: 41.0
+  z: 62.5
+logType: WORLD_CHANGE
+version: v1_21_R5

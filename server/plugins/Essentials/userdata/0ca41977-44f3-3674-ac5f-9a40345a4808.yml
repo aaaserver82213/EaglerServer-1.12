@@ -16,23 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1769193950246
-  login: 1769193286370
+  logout: 1770313341711
+  login: 1770313300514
 money: '0'
 last-account-name: flamefrags
 lastlocation:
-  world: e4bde043-c096-417f-8703-eba4ca45a689
-  world-name: unstable
-  x: -124.44352781532271
-  y: -4.983018245938042
-  z: -147.30000001192093
-  yaw: -104.101806640625
-  pitch: 19.04997444152832
+  world: 02e76222-c72c-41c0-b333-527be5f37270
+  world-name: netherpvp
+  x: 104.46356740749134
+  y: -57.0
+  z: 86.50157254041996
+  yaw: 90.149658203125
+  pitch: -1.0500373840332031
 logoutlocation:
   world: e4bde043-c096-417f-8703-eba4ca45a689
-  world-name: unstable
-  x: -155.50435774107953
-  y: 6.0
-  z: -101.62237035464784
-  yaw: -111.30108642578125
-  pitch: 58.04998779296875
+  world-name: stable
+  x: -97.82572708921461
+  y: 76.0
+  z: -67.47473783988971
+  yaw: 85.79768371582031
+  pitch: 56.40006637573242

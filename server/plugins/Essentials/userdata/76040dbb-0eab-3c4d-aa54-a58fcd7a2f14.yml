@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1770054936372
+  login: 1770054848166
+money: '0'
+last-account-name: Baro
+lastlocation:
+  world: 939e0731-e4ae-4ea6-b8f9-2c0fda63c37a
+  world-name: world
+  x: -6.5
+  y: 89.0
+  z: -8.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: e4bde043-c096-417f-8703-eba4ca45a689
+  world-name: stable
+  x: -97.581974530617
+  y: 75.0
+  z: -46.671610474582515
+  yaw: 137.69773864746094
+  pitch: 26.85003662109375

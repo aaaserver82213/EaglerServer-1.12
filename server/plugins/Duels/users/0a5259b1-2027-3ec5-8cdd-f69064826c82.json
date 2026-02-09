@@ -1,0 +1,53 @@
+{
+  "uuid" : "0a5259b1-2027-3ec5-8cdd-f69064826c82",
+  "name" : "kingrobby102",
+  "wins" : 0,
+  "losses" : 5,
+  "requests" : true,
+  "rating" : {
+    "Normal" : 1328
+  },
+  "matches" : [
+    {
+      "winner" : "ParrotX2",
+      "loser" : "kingrobby102",
+      "kit" : "Normal",
+      "time" : 1770035064773,
+      "duration" : 324622,
+      "health" : 2.0
+    },
+    {
+      "winner" : "Manepear",
+      "loser" : "kingrobby102",
+      "kit" : "Normal",
+      "time" : 1770035064773,
+      "duration" : 337263,
+      "health" : 8.5
+    },
+    {
+      "winner" : "Wemmbu",
+      "loser" : "kingrobby102",
+      "kit" : "Normal",
+      "time" : 1770035064773,
+      "duration" : 11872,
+      "health" : 11.0
+    },
+    {
+      "winner" : "jabirsilly",
+      "loser" : "kingrobby102",
+      "kit" : "Normal",
+      "time" : 1770035064773,
+      "duration" : 95510,
+      "health" : 10.0
+    },
+    {
+      "winner" : "flamefrags",
+      "loser" : "kingrobby102",
+      "kit" : "Normal",
+      "time" : 1770120034603,
+      "duration" : 257723,
+      "health" : 10.5
+    }
+  ],
+  "partyRequests" : true
+}

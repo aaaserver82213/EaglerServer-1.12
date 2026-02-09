@@ -1,0 +1,10 @@
+{
+  "uuid" : "f120e45a-eb13-3e72-ada9-c45d4ab4f99c",
+  "name" : "offical_dream",
+  "wins" : 0,
+  "losses" : 0,
+  "requests" : true,
+  "rating" : null,
+  "matches" : [ ],
+  "partyRequests" : true
+}

@@ -1,10 +1,53 @@
 {
   "uuid" : "5737a6e7-7872-3412-9b81-880b447c9081",
   "name" : "Mapicc",
-  "wins" : 0,
-  "losses" : 0,
+  "wins" : 2,
+  "losses" : 4,
   "requests" : true,
-  "rating" : null,
-  "matches" : [ ],
+  "rating" : {
+    "Normal" : 1396
+  },
+  "matches" : [
+    {
+      "winner" : "Mapicc",
+      "loser" : "nick",
+      "kit" : "Normal",
+      "time" : 1770035064773,
+      "duration" : 419530,
+      "health" : 1.5
+    },
+    {
+      "winner" : "flamefrags",
+      "loser" : "Mapicc",
+      "kit" : "Normal",
+      "time" : 1770142335194,
+      "duration" : 155310,
+      "health" : 8.0
+    },
+    {
+      "winner" : "flamefrags",
+      "loser" : "Mapicc",
+      "kit" : "Normal",
+      "time" : 1770142335194,
+      "duration" : 171746,
+      "health" : 3.5
+    },
+    {
+      "winner" : "Mapicc",
+      "loser" : "flamefrags",
+      "kit" : "Normal",
+      "time" : 1770142335194,
+      "duration" : 248422,
+      "health" : 6.0
+    },
+    {
+      "winner" : "Wemmbu",
+      "loser" : "Mapicc",
+      "kit" : "Normal",
+      "time" : 1770314173759,
+      "duration" : 566727,
+      "health" : 11.0
+    }
+  ],
   "partyRequests" : true
 }

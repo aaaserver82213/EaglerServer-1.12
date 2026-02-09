@@ -37,10 +37,10 @@ quick-fill:
   hover:
     - '<yellow>Název: <aqua>{0}'
     - '<yellow>vlastník: <aqua>{0}'
-    - '<yellow>Type: <aqua>{0}'
-    - '<yellow>Price: <aqua>{0}'
+    - '<yellow>Typ: <aqua>{0}'
+    - '<yellow>Cena: <aqua>{0}'
     - '<yellow>Položka: <aqua>{0}'
-    - '<yellow>Location: <aqua>{0}'
+    - '<yellow>Umístění: <aqua>{0}'
   hover-arg-filled:
     - '<yellow>Název: <aqua>{name}'
     - '<yellow>Vlastník: <aqua>{owner}'

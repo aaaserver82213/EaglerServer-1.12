@@ -1,10 +1,21 @@
 {
   "uuid" : "6d9d77b6-eac0-369e-90ab-9562b0f35f10",
   "name" : "ItzRealMe",
-  "wins" : 0,
+  "wins" : 1,
   "losses" : 0,
   "requests" : true,
-  "rating" : null,
-  "matches" : [ ],
+  "rating" : {
+    "Normal" : 1422
+  },
+  "matches" : [
+    {
+      "winner" : "ItzRealMe",
+      "loser" : "flamefrags",
+      "kit" : "Normal",
+      "time" : 1770120034603,
+      "duration" : 264327,
+      "health" : 10.0
+    }
+  ],
   "partyRequests" : true
 }

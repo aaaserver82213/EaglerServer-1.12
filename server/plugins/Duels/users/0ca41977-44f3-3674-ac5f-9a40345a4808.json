@@ -1,10 +1,56 @@
 {
   "uuid" : "0ca41977-44f3-3674-ac5f-9a40345a4808",
   "name" : "flamefrags",
-  "wins" : 0,
-  "losses" : 0,
+  "wins" : 32,
+  "losses" : 10,
   "requests" : true,
-  "rating" : null,
-  "matches" : [ ],
+  "rating" : {
+    "Mace PvP" : 1416,
+    "Mace pvp" : 1384,
+    "Normal" : 1511,
+    "-" : 1416
+  },
+  "matches" : [
+    {
+      "winner" : "flamefrags",
+      "loser" : "nick",
+      "kit" : "Normal",
+      "time" : 1770223022911,
+      "duration" : 64335,
+      "health" : 10.5
+    },
+    {
+      "winner" : "flamefrags",
+      "loser" : "nick",
+      "kit" : "Normal",
+      "time" : 1770223022911,
+      "duration" : 17841,
+      "health" : 10.5
+    },
+    {
+      "winner" : "ParrotX2",
+      "loser" : "flamefrags",
+      "kit" : "Normal",
+      "time" : 1770223022911,
+      "duration" : 67243,
+      "health" : 7.5
+    },
+    {
+      "winner" : "ParrotX2",
+      "loser" : "flamefrags",
+      "kit" : "Normal",
+      "time" : 1770223022911,
+      "duration" : 19392,
+      "health" : 10.5
+    },
+    {
+      "winner" : "Wemmbu",
+      "loser" : "flamefrags",
+      "kit" : "Mace pvp",
+      "time" : 1770293704766,
+      "duration" : 19559,
+      "health" : 11.0
+    }
+  ],
   "partyRequests" : true
 }

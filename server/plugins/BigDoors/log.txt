@@ -390,3 +390,435 @@ Build sequence num.:  -1
 [23-01-2026 19:30:41] ╚═══════════════════════════════════════════════════════╝
 [23-01-2026 19:30:41] Starting BigDoors version: 0.1.8.65
 [23-01-2026 19:30:43] Successfully hooked into "WorldGuard"!
+[28-01-2026 12:18:28] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[28-01-2026 12:19:21] ╔═══════════════════════════════════════════════════════╗
+[28-01-2026 12:19:21] ║                                                       ║
+[28-01-2026 12:19:21] ║                    !!  WARNING  !!                    ║
+[28-01-2026 12:19:21] ║                                                       ║
+[28-01-2026 12:19:21] ║                                                       ║
+[28-01-2026 12:19:21] ║            You have enabled "unsafe mode"!            ║
+[28-01-2026 12:19:21] ║                                                       ║
+[28-01-2026 12:19:21] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[28-01-2026 12:19:21] ║                                                       ║
+[28-01-2026 12:19:21] ╚═══════════════════════════════════════════════════════╝
+[28-01-2026 12:19:21] Starting BigDoors version: 0.1.8.65
+[28-01-2026 12:19:23] Successfully hooked into "WorldGuard"!
+[28-01-2026 14:39:53] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[28-01-2026 14:40:37] ╔═══════════════════════════════════════════════════════╗
+[28-01-2026 14:40:37] ║                                                       ║
+[28-01-2026 14:40:37] ║                    !!  WARNING  !!                    ║
+[28-01-2026 14:40:37] ║                                                       ║
+[28-01-2026 14:40:37] ║                                                       ║
+[28-01-2026 14:40:37] ║            You have enabled "unsafe mode"!            ║
+[28-01-2026 14:40:37] ║                                                       ║
+[28-01-2026 14:40:37] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[28-01-2026 14:40:37] ║                                                       ║
+[28-01-2026 14:40:37] ╚═══════════════════════════════════════════════════════╝
+[28-01-2026 14:40:37] Starting BigDoors version: 0.1.8.65
+[28-01-2026 14:40:39] Successfully hooked into "WorldGuard"!
+[28-01-2026 15:12:04] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[28-01-2026 15:12:52] ╔═══════════════════════════════════════════════════════╗
+[28-01-2026 15:12:52] ║                                                       ║
+[28-01-2026 15:12:52] ║                    !!  WARNING  !!                    ║
+[28-01-2026 15:12:52] ║                                                       ║
+[28-01-2026 15:12:52] ║                                                       ║
+[28-01-2026 15:12:52] ║            You have enabled "unsafe mode"!            ║
+[28-01-2026 15:12:52] ║                                                       ║
+[28-01-2026 15:12:52] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[28-01-2026 15:12:52] ║                                                       ║
+[28-01-2026 15:12:52] ╚═══════════════════════════════════════════════════════╝
+[28-01-2026 15:12:52] Starting BigDoors version: 0.1.8.65
+[28-01-2026 15:12:54] Successfully hooked into "WorldGuard"!
+[29-01-2026 12:14:18] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[29-01-2026 12:15:08] ╔═══════════════════════════════════════════════════════╗
+[29-01-2026 12:15:08] ║                                                       ║
+[29-01-2026 12:15:08] ║                    !!  WARNING  !!                    ║
+[29-01-2026 12:15:08] ║                                                       ║
+[29-01-2026 12:15:08] ║                                                       ║
+[29-01-2026 12:15:08] ║            You have enabled "unsafe mode"!            ║
+[29-01-2026 12:15:08] ║                                                       ║
+[29-01-2026 12:15:08] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[29-01-2026 12:15:08] ║                                                       ║
+[29-01-2026 12:15:08] ╚═══════════════════════════════════════════════════════╝
+[29-01-2026 12:15:08] Starting BigDoors version: 0.1.8.65
+[29-01-2026 12:15:09] Successfully hooked into "WorldGuard"!
+[29-01-2026 15:27:42] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[29-01-2026 15:28:44] ╔═══════════════════════════════════════════════════════╗
+[29-01-2026 15:28:44] ║                                                       ║
+[29-01-2026 15:28:44] ║                    !!  WARNING  !!                    ║
+[29-01-2026 15:28:44] ║                                                       ║
+[29-01-2026 15:28:44] ║                                                       ║
+[29-01-2026 15:28:44] ║            You have enabled "unsafe mode"!            ║
+[29-01-2026 15:28:44] ║                                                       ║
+[29-01-2026 15:28:44] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[29-01-2026 15:28:44] ║                                                       ║
+[29-01-2026 15:28:44] ╚═══════════════════════════════════════════════════════╝
+[29-01-2026 15:28:44] Starting BigDoors version: 0.1.8.65
+[29-01-2026 15:28:46] Successfully hooked into "WorldGuard"!
+[29-01-2026 15:59:56] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[29-01-2026 16:01:15] ╔═══════════════════════════════════════════════════════╗
+[29-01-2026 16:01:15] ║                                                       ║
+[29-01-2026 16:01:15] ║                    !!  WARNING  !!                    ║
+[29-01-2026 16:01:15] ║                                                       ║
+[29-01-2026 16:01:15] ║                                                       ║
+[29-01-2026 16:01:15] ║            You have enabled "unsafe mode"!            ║
+[29-01-2026 16:01:15] ║                                                       ║
+[29-01-2026 16:01:15] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[29-01-2026 16:01:15] ║                                                       ║
+[29-01-2026 16:01:15] ╚═══════════════════════════════════════════════════════╝
+[29-01-2026 16:01:15] Starting BigDoors version: 0.1.8.65
+[29-01-2026 16:01:17] Successfully hooked into "WorldGuard"!
+[30-01-2026 12:06:30] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[30-01-2026 12:07:16] ╔═══════════════════════════════════════════════════════╗
+[30-01-2026 12:07:16] ║                                                       ║
+[30-01-2026 12:07:16] ║                    !!  WARNING  !!                    ║
+[30-01-2026 12:07:16] ║                                                       ║
+[30-01-2026 12:07:16] ║                                                       ║
+[30-01-2026 12:07:16] ║            You have enabled "unsafe mode"!            ║
+[30-01-2026 12:07:16] ║                                                       ║
+[30-01-2026 12:07:16] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[30-01-2026 12:07:16] ║                                                       ║
+[30-01-2026 12:07:16] ╚═══════════════════════════════════════════════════════╝
+[30-01-2026 12:07:16] Starting BigDoors version: 0.1.8.65
+[30-01-2026 12:07:18] Successfully hooked into "WorldGuard"!
+[30-01-2026 18:34:59] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[30-01-2026 18:35:42] ╔═══════════════════════════════════════════════════════╗
+[30-01-2026 18:35:42] ║                                                       ║
+[30-01-2026 18:35:42] ║                    !!  WARNING  !!                    ║
+[30-01-2026 18:35:42] ║                                                       ║
+[30-01-2026 18:35:42] ║                                                       ║
+[30-01-2026 18:35:42] ║            You have enabled "unsafe mode"!            ║
+[30-01-2026 18:35:42] ║                                                       ║
+[30-01-2026 18:35:42] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[30-01-2026 18:35:42] ║                                                       ║
+[30-01-2026 18:35:42] ╚═══════════════════════════════════════════════════════╝
+[30-01-2026 18:35:42] Starting BigDoors version: 0.1.8.65
+[30-01-2026 18:35:43] Successfully hooked into "WorldGuard"!
+[02-02-2026 12:04:27] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[02-02-2026 12:05:16] ╔═══════════════════════════════════════════════════════╗
+[02-02-2026 12:05:16] ║                                                       ║
+[02-02-2026 12:05:16] ║                    !!  WARNING  !!                    ║
+[02-02-2026 12:05:16] ║                                                       ║
+[02-02-2026 12:05:16] ║                                                       ║
+[02-02-2026 12:05:16] ║            You have enabled "unsafe mode"!            ║
+[02-02-2026 12:05:16] ║                                                       ║
+[02-02-2026 12:05:16] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[02-02-2026 12:05:16] ║                                                       ║
+[02-02-2026 12:05:16] ╚═══════════════════════════════════════════════════════╝
+[02-02-2026 12:05:16] Starting BigDoors version: 0.1.8.65
+[02-02-2026 12:05:18] Successfully hooked into "WorldGuard"!
+[02-02-2026 12:20:10] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[02-02-2026 12:20:49] ╔═══════════════════════════════════════════════════════╗
+[02-02-2026 12:20:49] ║                                                       ║
+[02-02-2026 12:20:49] ║                    !!  WARNING  !!                    ║
+[02-02-2026 12:20:49] ║                                                       ║
+[02-02-2026 12:20:49] ║                                                       ║
+[02-02-2026 12:20:49] ║            You have enabled "unsafe mode"!            ║
+[02-02-2026 12:20:49] ║                                                       ║
+[02-02-2026 12:20:49] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[02-02-2026 12:20:49] ║                                                       ║
+[02-02-2026 12:20:49] ╚═══════════════════════════════════════════════════════╝
+[02-02-2026 12:20:49] Starting BigDoors version: 0.1.8.65
+[02-02-2026 12:20:51] Successfully hooked into "WorldGuard"!
+[02-02-2026 12:23:36] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[02-02-2026 12:24:16] ╔═══════════════════════════════════════════════════════╗
+[02-02-2026 12:24:16] ║                                                       ║
+[02-02-2026 12:24:16] ║                    !!  WARNING  !!                    ║
+[02-02-2026 12:24:16] ║                                                       ║
+[02-02-2026 12:24:16] ║                                                       ║
+[02-02-2026 12:24:16] ║            You have enabled "unsafe mode"!            ║
+[02-02-2026 12:24:16] ║                                                       ║
+[02-02-2026 12:24:16] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[02-02-2026 12:24:16] ║                                                       ║
+[02-02-2026 12:24:16] ╚═══════════════════════════════════════════════════════╝
+[02-02-2026 12:24:16] Starting BigDoors version: 0.1.8.65
+[02-02-2026 12:24:17] Successfully hooked into "WorldGuard"!
+[02-02-2026 18:49:42] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[02-02-2026 18:50:33] ╔═══════════════════════════════════════════════════════╗
+[02-02-2026 18:50:33] ║                                                       ║
+[02-02-2026 18:50:33] ║                    !!  WARNING  !!                    ║
+[02-02-2026 18:50:33] ║                                                       ║
+[02-02-2026 18:50:33] ║                                                       ║
+[02-02-2026 18:50:33] ║            You have enabled "unsafe mode"!            ║
+[02-02-2026 18:50:33] ║                                                       ║
+[02-02-2026 18:50:33] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[02-02-2026 18:50:33] ║                                                       ║
+[02-02-2026 18:50:33] ╚═══════════════════════════════════════════════════════╝
+[02-02-2026 18:50:33] Starting BigDoors version: 0.1.8.65
+[02-02-2026 18:50:34] Successfully hooked into "WorldGuard"!
+[03-02-2026 11:59:34] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[03-02-2026 12:00:24] ╔═══════════════════════════════════════════════════════╗
+[03-02-2026 12:00:24] ║                                                       ║
+[03-02-2026 12:00:24] ║                    !!  WARNING  !!                    ║
+[03-02-2026 12:00:24] ║                                                       ║
+[03-02-2026 12:00:24] ║                                                       ║
+[03-02-2026 12:00:24] ║            You have enabled "unsafe mode"!            ║
+[03-02-2026 12:00:24] ║                                                       ║
+[03-02-2026 12:00:24] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[03-02-2026 12:00:24] ║                                                       ║
+[03-02-2026 12:00:24] ╚═══════════════════════════════════════════════════════╝
+[03-02-2026 12:00:24] Starting BigDoors version: 0.1.8.65
+[03-02-2026 12:00:25] Successfully hooked into "WorldGuard"!
+[03-02-2026 18:06:03] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[03-02-2026 18:07:17] ╔═══════════════════════════════════════════════════════╗
+[03-02-2026 18:07:17] ║                                                       ║
+[03-02-2026 18:07:17] ║                    !!  WARNING  !!                    ║
+[03-02-2026 18:07:17] ║                                                       ║
+[03-02-2026 18:07:17] ║                                                       ║
+[03-02-2026 18:07:17] ║            You have enabled "unsafe mode"!            ║
+[03-02-2026 18:07:17] ║                                                       ║
+[03-02-2026 18:07:17] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[03-02-2026 18:07:17] ║                                                       ║
+[03-02-2026 18:07:17] ╚═══════════════════════════════════════════════════════╝
+[03-02-2026 18:07:17] Starting BigDoors version: 0.1.8.65
+[03-02-2026 18:07:18] Successfully hooked into "WorldGuard"!
+[03-02-2026 18:10:50] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[03-02-2026 18:12:06] ╔═══════════════════════════════════════════════════════╗
+[03-02-2026 18:12:06] ║                                                       ║
+[03-02-2026 18:12:06] ║                    !!  WARNING  !!                    ║
+[03-02-2026 18:12:06] ║                                                       ║
+[03-02-2026 18:12:06] ║                                                       ║
+[03-02-2026 18:12:06] ║            You have enabled "unsafe mode"!            ║
+[03-02-2026 18:12:06] ║                                                       ║
+[03-02-2026 18:12:06] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[03-02-2026 18:12:06] ║                                                       ║
+[03-02-2026 18:12:06] ╚═══════════════════════════════════════════════════════╝
+[03-02-2026 18:12:06] Starting BigDoors version: 0.1.8.65
+[03-02-2026 18:12:07] Successfully hooked into "WorldGuard"!
+[04-02-2026 12:15:45] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[04-02-2026 12:16:35] ╔═══════════════════════════════════════════════════════╗
+[04-02-2026 12:16:35] ║                                                       ║
+[04-02-2026 12:16:35] ║                    !!  WARNING  !!                    ║
+[04-02-2026 12:16:35] ║                                                       ║
+[04-02-2026 12:16:35] ║                                                       ║
+[04-02-2026 12:16:35] ║            You have enabled "unsafe mode"!            ║
+[04-02-2026 12:16:35] ║                                                       ║
+[04-02-2026 12:16:35] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[04-02-2026 12:16:35] ║                                                       ║
+[04-02-2026 12:16:35] ╚═══════════════════════════════════════════════════════╝
+[04-02-2026 12:16:35] Starting BigDoors version: 0.1.8.65
+[04-02-2026 12:16:37] Successfully hooked into "WorldGuard"!
+[04-02-2026 15:35:14] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[04-02-2026 15:36:03] ╔═══════════════════════════════════════════════════════╗
+[04-02-2026 15:36:03] ║                                                       ║
+[04-02-2026 15:36:03] ║                    !!  WARNING  !!                    ║
+[04-02-2026 15:36:03] ║                                                       ║
+[04-02-2026 15:36:03] ║                                                       ║
+[04-02-2026 15:36:03] ║            You have enabled "unsafe mode"!            ║
+[04-02-2026 15:36:03] ║                                                       ║
+[04-02-2026 15:36:03] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[04-02-2026 15:36:03] ║                                                       ║
+[04-02-2026 15:36:03] ╚═══════════════════════════════════════════════════════╝
+[04-02-2026 15:36:03] Starting BigDoors version: 0.1.8.65
+[04-02-2026 15:36:04] Successfully hooked into "WorldGuard"!
+[04-02-2026 16:35:25] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[04-02-2026 16:36:53] ╔═══════════════════════════════════════════════════════╗
+[04-02-2026 16:36:53] ║                                                       ║
+[04-02-2026 16:36:53] ║                    !!  WARNING  !!                    ║
+[04-02-2026 16:36:53] ║                                                       ║
+[04-02-2026 16:36:53] ║                                                       ║
+[04-02-2026 16:36:53] ║            You have enabled "unsafe mode"!            ║
+[04-02-2026 16:36:53] ║                                                       ║
+[04-02-2026 16:36:53] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[04-02-2026 16:36:53] ║                                                       ║
+[04-02-2026 16:36:53] ╚═══════════════════════════════════════════════════════╝
+[04-02-2026 16:36:53] Starting BigDoors version: 0.1.8.65
+[04-02-2026 16:36:54] Successfully hooked into "WorldGuard"!
+[05-02-2026 12:14:04] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[05-02-2026 12:14:55] ╔═══════════════════════════════════════════════════════╗
+[05-02-2026 12:14:55] ║                                                       ║
+[05-02-2026 12:14:55] ║                    !!  WARNING  !!                    ║
+[05-02-2026 12:14:55] ║                                                       ║
+[05-02-2026 12:14:55] ║                                                       ║
+[05-02-2026 12:14:55] ║            You have enabled "unsafe mode"!            ║
+[05-02-2026 12:14:55] ║                                                       ║
+[05-02-2026 12:14:55] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[05-02-2026 12:14:55] ║                                                       ║
+[05-02-2026 12:14:55] ╚═══════════════════════════════════════════════════════╝
+[05-02-2026 12:14:55] Starting BigDoors version: 0.1.8.65
+[05-02-2026 12:14:57] Successfully hooked into "WorldGuard"!
+[05-02-2026 13:52:07] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[05-02-2026 13:53:06] ╔═══════════════════════════════════════════════════════╗
+[05-02-2026 13:53:06] ║                                                       ║
+[05-02-2026 13:53:06] ║                    !!  WARNING  !!                    ║
+[05-02-2026 13:53:06] ║                                                       ║
+[05-02-2026 13:53:06] ║                                                       ║
+[05-02-2026 13:53:06] ║            You have enabled "unsafe mode"!            ║
+[05-02-2026 13:53:06] ║                                                       ║
+[05-02-2026 13:53:06] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[05-02-2026 13:53:06] ║                                                       ║
+[05-02-2026 13:53:06] ╚═══════════════════════════════════════════════════════╝
+[05-02-2026 13:53:06] Starting BigDoors version: 0.1.8.65
+[05-02-2026 13:53:07] Successfully hooked into "WorldGuard"!
+[05-02-2026 16:31:07] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[05-02-2026 16:31:56] ╔═══════════════════════════════════════════════════════╗
+[05-02-2026 16:31:56] ║                                                       ║
+[05-02-2026 16:31:56] ║                    !!  WARNING  !!                    ║
+[05-02-2026 16:31:56] ║                                                       ║
+[05-02-2026 16:31:56] ║                                                       ║
+[05-02-2026 16:31:56] ║            You have enabled "unsafe mode"!            ║
+[05-02-2026 16:31:56] ║                                                       ║
+[05-02-2026 16:31:56] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[05-02-2026 16:31:56] ║                                                       ║
+[05-02-2026 16:31:56] ╚═══════════════════════════════════════════════════════╝
+[05-02-2026 16:31:56] Starting BigDoors version: 0.1.8.65
+[05-02-2026 16:31:57] Successfully hooked into "WorldGuard"!
+[05-02-2026 16:56:38] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[05-02-2026 16:57:30] ╔═══════════════════════════════════════════════════════╗
+[05-02-2026 16:57:30] ║                                                       ║
+[05-02-2026 16:57:30] ║                    !!  WARNING  !!                    ║
+[05-02-2026 16:57:30] ║                                                       ║
+[05-02-2026 16:57:30] ║                                                       ║
+[05-02-2026 16:57:30] ║            You have enabled "unsafe mode"!            ║
+[05-02-2026 16:57:30] ║                                                       ║
+[05-02-2026 16:57:30] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[05-02-2026 16:57:30] ║                                                       ║
+[05-02-2026 16:57:30] ╚═══════════════════════════════════════════════════════╝
+[05-02-2026 16:57:30] Starting BigDoors version: 0.1.8.65
+[05-02-2026 16:57:32] Successfully hooked into "WorldGuard"!
+[05-02-2026 17:26:35] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[05-02-2026 17:27:26] ╔═══════════════════════════════════════════════════════╗
+[05-02-2026 17:27:26] ║                                                       ║
+[05-02-2026 17:27:26] ║                    !!  WARNING  !!                    ║
+[05-02-2026 17:27:26] ║                                                       ║
+[05-02-2026 17:27:26] ║                                                       ║
+[05-02-2026 17:27:26] ║            You have enabled "unsafe mode"!            ║
+[05-02-2026 17:27:26] ║                                                       ║
+[05-02-2026 17:27:26] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[05-02-2026 17:27:26] ║                                                       ║
+[05-02-2026 17:27:26] ╚═══════════════════════════════════════════════════════╝
+[05-02-2026 17:27:26] Starting BigDoors version: 0.1.8.65
+[05-02-2026 17:27:27] Successfully hooked into "WorldGuard"!
+[05-02-2026 17:55:11] Initializing BigDoors build:
+Release:              true
+Commit:               master: 2d797d12590ac6f6c6b1250cae2d461bf9afc3c5 dirty:true (2025-12-12T14:47:20Z)
+Actions Build number: 7
+Actions Build id:     20412286518
+Build sequence num.:  -1
+[05-02-2026 17:56:04] ╔═══════════════════════════════════════════════════════╗
+[05-02-2026 17:56:04] ║                                                       ║
+[05-02-2026 17:56:04] ║                    !!  WARNING  !!                    ║
+[05-02-2026 17:56:04] ║                                                       ║
+[05-02-2026 17:56:04] ║                                                       ║
+[05-02-2026 17:56:04] ║            You have enabled "unsafe mode"!            ║
+[05-02-2026 17:56:04] ║                                                       ║
+[05-02-2026 17:56:04] ║   THIS IS NOT SUPPORTED! USE THIS AT YOUR OWN RISK!   ║
+[05-02-2026 17:56:04] ║                                                       ║
+[05-02-2026 17:56:04] ╚═══════════════════════════════════════════════════════╝
+[05-02-2026 17:56:04] Starting BigDoors version: 0.1.8.65
+[05-02-2026 17:56:05] Successfully hooked into "WorldGuard"!

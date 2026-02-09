@@ -78,7 +78,7 @@ team:
     announce: true
   size:
     # Set the default maximum amount of members that can join a players' team. [Default value: 8]
-    default-max-team-size: 8
+    default-max-team-size: 18
     # If true, the default members limit will be stacked with permission limit.
     # If a player has ultimateteams.max_members.2 and the default limit is 8, he will be able to have 10 members. otherwise only 2.
     stack-members: false
@@ -92,7 +92,7 @@ team:
       # Enable the cool down on the '/team warp <name>' command to prevent tp spamming (RECOMMENDED). [Default value: true]
       enabled: true
       # Cool-down time in seconds. [Default value: 120 = 2 minutes]
-      time: 120
+      time: 12
   pvp:
     # Globally enable the team friendly fire system (the friendly fire is disabled by default in new teams). [Default value: true]
     enabled: true

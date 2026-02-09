@@ -310,7 +310,7 @@ duel:
   teleport-delay: 5
 
   # If set to 'true', a firework will spawn at the winner's location when a duel ends.
-  # default: true
+  # default: true n
   spawn-firework: true
 
   # If set to 'true', the duel end message will be sent only to the players in duel & spectators of the duel.
@@ -323,12 +323,12 @@ duel:
 
   # If set to 'true', players in duel will not be able to drop items.
   # default: false
-  prevent-item-drop: false
+  prevent-item-drop: true
   clear-items-after-duel: true
 
   # If set to 'true', players in duel will not be able to pickup items on the ground.
   # default: false
-  prevent-item-pickup: false
+  prevent-item-pickup: true
 
   limit-teleportation:
     # If set to 'true', teleportation while in duel will be limited to the distance specified below.
@@ -343,7 +343,7 @@ duel:
 
   # If set to 'true', only commands listed in 'whitelisted-commands' will be usable while in a duel.
   # default: false
-  block-all-commands: false
+  block-all-commands: true
 
   # List of commands to allow while in a duel.
   # NOTE: Only active if 'block-all-commands' is enabled!
@@ -491,7 +491,7 @@ spectate:
   # If set to 'true', players spectating will receive invisibility effect.
   # NOTE: This option will not take effect if use-spectator-gamemode is set to true.
   # default: true
-  add-invisibility-effect: true
+  add-invisibility-effect: false
 
   # List of commands to allow while spectating.
   whitelisted-commands:

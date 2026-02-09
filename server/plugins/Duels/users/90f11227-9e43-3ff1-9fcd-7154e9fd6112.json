@@ -1,0 +1,10 @@
+{
+  "uuid" : "90f11227-9e43-3ff1-9fcd-7154e9fd6112",
+  "name" : "isaac",
+  "wins" : 0,
+  "losses" : 0,
+  "requests" : true,
+  "rating" : null,
+  "matches" : [ ],
+  "partyRequests" : true
+}

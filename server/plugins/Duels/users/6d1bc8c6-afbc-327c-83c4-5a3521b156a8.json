@@ -2,9 +2,28 @@
   "uuid" : "6d1bc8c6-afbc-327c-83c4-5a3521b156a8",
   "name" : "LettuceK",
   "wins" : 0,
-  "losses" : 0,
+  "losses" : 2,
   "requests" : true,
-  "rating" : null,
-  "matches" : [ ],
+  "rating" : {
+    "Mace pvp" : 1372
+  },
+  "matches" : [
+    {
+      "winner" : "Wemmbu",
+      "loser" : "LettuceK",
+      "kit" : "Mace pvp",
+      "time" : 1770293704766,
+      "duration" : 127909,
+      "health" : 11.0
+    },
+    {
+      "winner" : "Manepear",
+      "loser" : "LettuceK",
+      "kit" : "Mace pvp",
+      "time" : 1770299596391,
+      "duration" : 623874,
+      "health" : 9.5
+    }
+  ],
   "partyRequests" : true
 }

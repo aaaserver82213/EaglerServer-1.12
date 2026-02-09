@@ -1,0 +1,37 @@
+{
+  "uuid" : "a39b2ee7-7c6f-39fb-b00a-95ea01a36a25",
+  "name" : "Lomady",
+  "wins" : 0,
+  "losses" : 3,
+  "requests" : true,
+  "rating" : {
+    "Mace pvp" : 1360
+  },
+  "matches" : [
+    {
+      "winner" : "Wemmbu",
+      "loser" : "Lomady",
+      "kit" : "Mace pvp",
+      "time" : 1770223022911,
+      "duration" : 60930,
+      "health" : 7.5
+    },
+    {
+      "winner" : "Wemmbu",
+      "loser" : "Lomady",
+      "kit" : "Mace pvp",
+      "time" : 1770223022911,
+      "duration" : 61460,
+      "health" : 11.0
+    },
+    {
+      "winner" : "Wemmbu",
+      "loser" : "Lomady",
+      "kit" : "Mace pvp",
+      "time" : 1770299596391,
+      "duration" : 161555,
+      "health" : 11.0
+    }
+  ],
+  "partyRequests" : true
+}

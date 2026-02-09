@@ -4,5 +4,11 @@
     "name": "ParrotX2",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b8e46504-274d-3847-ac77-ed94dbe8064b",
+    "name": "Wemmbu",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

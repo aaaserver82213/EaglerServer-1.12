@@ -1,10 +1,54 @@
 {
   "uuid" : "48d5a1b4-fc5f-3b3f-a09a-1f050adee0dc",
   "name" : "Manepear",
-  "wins" : 0,
-  "losses" : 0,
+  "wins" : 7,
+  "losses" : 3,
   "requests" : true,
-  "rating" : null,
-  "matches" : [ ],
+  "rating" : {
+    "Mace pvp" : 1429,
+    "Normal" : 1425
+  },
+  "matches" : [
+    {
+      "winner" : "Manepear",
+      "loser" : "jabirsilly",
+      "kit" : "Normal",
+      "time" : 1770035064773,
+      "duration" : 174131,
+      "health" : 9.5
+    },
+    {
+      "winner" : "Manepear",
+      "loser" : "nick",
+      "kit" : "Normal",
+      "time" : 1770120034603,
+      "duration" : 23836,
+      "health" : 10.5
+    },
+    {
+      "winner" : "Manepear",
+      "loser" : "nick",
+      "kit" : "Normal",
+      "time" : 1770120034603,
+      "duration" : 805300,
+      "health" : 1.0
+    },
+    {
+      "winner" : "Manepear",
+      "loser" : "LettuceK",
+      "kit" : "Mace pvp",
+      "time" : 1770299596391,
+      "duration" : 623874,
+      "health" : 9.5
+    },
+    {
+      "winner" : "Manepear",
+      "loser" : "cris00",
+      "kit" : "Mace pvp",
+      "time" : 1770299596391,
+      "duration" : 292103,
+      "health" : 11.0
+    }
+  ],
   "partyRequests" : true
 }

@@ -4,11 +4,8 @@ debug-mode: false
 #worlds for y0 to be enabled in
 enabled-worlds:
     - 'world'
-    - 'flat'
-    - 'stable
-    - 'unstable1'
-    - 'world_nether'
-    - 'testing'
+    - 'stable'
+    - 'netherpvp'
 
 #the amount of threads for the chunk processor to use - using more threads processes chunks faster, but increases CPU usage
 #-1 is automatic
@@ -20,4 +17,4 @@ cache-size: 512
 cache-expiration: 5
 
 # Kick outdated clients that (generally) not compatible with this version of TuffX
-kick-outdated-clients: false
+kick-outdated-clients: true

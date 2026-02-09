@@ -1,0 +1,11 @@
+xp: 0.0
+health: 0.0
+hunger: 17
+saturation: 0.0
+location:
+  world: pvp1
+  x: 45.4
+  y: 6.0
+  z: 39.7
+logType: JOIN
+version: v1_21_R5

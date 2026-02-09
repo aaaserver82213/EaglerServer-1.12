@@ -1,10 +1,55 @@
 {
   "uuid" : "b8e46504-274d-3847-ac77-ed94dbe8064b",
   "name" : "Wemmbu",
-  "wins" : 0,
-  "losses" : 0,
+  "wins" : 27,
+  "losses" : 12,
   "requests" : true,
-  "rating" : null,
-  "matches" : [ ],
+  "rating" : {
+    "Mace PvP" : 1416,
+    "Mace pvp" : 1447,
+    "Normal" : 1503
+  },
+  "matches" : [
+    {
+      "winner" : "Wemmbu",
+      "loser" : "LettuceK",
+      "kit" : "Mace pvp",
+      "time" : 1770293704766,
+      "duration" : 127909,
+      "health" : 11.0
+    },
+    {
+      "winner" : "ClownPierce",
+      "loser" : "Wemmbu",
+      "kit" : "Mace pvp",
+      "time" : 1770299596391,
+      "duration" : 229101,
+      "health" : 7.0
+    },
+    {
+      "winner" : "Wemmbu",
+      "loser" : "SR8K_",
+      "kit" : "Mace pvp",
+      "time" : 1770309125268,
+      "duration" : 26938,
+      "health" : 10.5
+    },
+    {
+      "winner" : "ClownPierce",
+      "loser" : "Wemmbu",
+      "kit" : "Mace pvp",
+      "time" : 1770312455853,
+      "duration" : 30577,
+      "health" : 10.5
+    },
+    {
+      "winner" : "Wemmbu",
+      "loser" : "Mapicc",
+      "kit" : "Normal",
+      "time" : 1770314173759,
+      "duration" : 566727,
+      "health" : 11.0
+    }
+  ],
   "partyRequests" : true
 }

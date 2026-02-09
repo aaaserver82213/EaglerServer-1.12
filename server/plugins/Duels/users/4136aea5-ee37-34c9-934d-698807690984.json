@@ -1,10 +1,54 @@
 {
   "uuid" : "4136aea5-ee37-34c9-934d-698807690984",
   "name" : "cris00",
-  "wins" : 0,
-  "losses" : 0,
+  "wins" : 2,
+  "losses" : 3,
   "requests" : true,
-  "rating" : null,
-  "matches" : [ ],
+  "rating" : {
+    "Mace pvp" : 1369,
+    "Normal" : 1413
+  },
+  "matches" : [
+    {
+      "winner" : "cris00",
+      "loser" : "nick",
+      "kit" : "Normal",
+      "time" : 1770120034603,
+      "duration" : 141597,
+      "health" : 9.5
+    },
+    {
+      "winner" : "flamefrags",
+      "loser" : "cris00",
+      "kit" : "Normal",
+      "time" : 1770120034603,
+      "duration" : 410394,
+      "health" : 10.5
+    },
+    {
+      "winner" : "cris00",
+      "loser" : "nick",
+      "kit" : "Normal",
+      "time" : 1770207405226,
+      "duration" : 259629,
+      "health" : 9.0
+    },
+    {
+      "winner" : "Wemmbu",
+      "loser" : "cris00",
+      "kit" : "Mace pvp",
+      "time" : 1770223022911,
+      "duration" : 23075,
+      "health" : 11.0
+    },
+    {
+      "winner" : "Manepear",
+      "loser" : "cris00",
+      "kit" : "Mace pvp",
+      "time" : 1770299596391,
+      "duration" : 292103,
+      "health" : 11.0
+    }
+  ],
   "partyRequests" : true
 }

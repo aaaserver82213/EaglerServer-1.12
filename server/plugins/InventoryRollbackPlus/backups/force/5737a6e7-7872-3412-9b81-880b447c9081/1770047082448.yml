@@ -1,0 +1,11 @@
+xp: 0.0
+health: 20.399999618530273
+hunger: 20
+saturation: 20.0
+location:
+  world: stable
+  x: 179.1
+  y: 31.0
+  z: 491.0
+logType: FORCE
+version: v1_21_R5

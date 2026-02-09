@@ -1,10 +1,56 @@
 {
   "uuid" : "1ac60049-6f05-3e8c-91b8-0ec93922d8db",
   "name" : "ParrotX2",
-  "wins" : 0,
-  "losses" : 0,
+  "wins" : 8,
+  "losses" : 17,
   "requests" : true,
-  "rating" : null,
-  "matches" : [ ],
+  "rating" : {
+    "Mace PvP" : 1384,
+    "Mace pvp" : 1403,
+    "Normal" : 1393,
+    "-" : 1384
+  },
+  "matches" : [
+    {
+      "winner" : "flamefrags",
+      "loser" : "ParrotX2",
+      "kit" : "Mace PvP",
+      "time" : 1770223022911,
+      "duration" : 83292,
+      "health" : 7.0
+    },
+    {
+      "winner" : "ParrotX2",
+      "loser" : "Wemmbu",
+      "kit" : "Mace pvp",
+      "time" : 1770223022911,
+      "duration" : 111135,
+      "health" : 3.0
+    },
+    {
+      "winner" : "Wemmbu",
+      "loser" : "ParrotX2",
+      "kit" : "Mace pvp",
+      "time" : 1770223022911,
+      "duration" : 90836,
+      "health" : 3.0
+    },
+    {
+      "winner" : "ParrotX2",
+      "loser" : "flamefrags",
+      "kit" : "Normal",
+      "time" : 1770223022911,
+      "duration" : 67243,
+      "health" : 7.5
+    },
+    {
+      "winner" : "ParrotX2",
+      "loser" : "flamefrags",
+      "kit" : "Normal",
+      "time" : 1770223022911,
+      "duration" : 19392,
+      "health" : 10.5
+    }
+  ],
   "partyRequests" : true
 }

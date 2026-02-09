@@ -1,0 +1,10 @@
+{
+  "uuid" : "ed55858b-12d6-3af2-b3db-b4d1d5e95f3e",
+  "name" : "d_fualt",
+  "wins" : 0,
+  "losses" : 0,
+  "requests" : true,
+  "rating" : null,
+  "matches" : [ ],
+  "partyRequests" : true
+}
